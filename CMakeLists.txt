@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.19)
+
+project(Cosim LANGUAGES CXX)
+
+
+
+add_executable(Cosim src/main.cpp)
