@@ -1,0 +1,12 @@
+{
+    "listeners": [{ "address": "0.0.0.0", "port": 8080 }],
+    "app": {
+      "threads_num": 0,
+      "log_level": "INFO",
+      "log_path": "logs",
+      "document_root": "./public",
+      "static_files": { "cache_max_age": 0 }
+    },
+    "plugins": []
+  }
+  

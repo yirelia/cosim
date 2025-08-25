@@ -40,3 +40,5 @@
 # debug information files
 *.dwo
 build/
+# 用户本地配置
+CMakeUserPresets.json
